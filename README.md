@@ -25,4 +25,4 @@ Cards & Coins is a digital collectible card game developed for Itch.io. made in 
 ### 🌍 Languages
 
 ![Danish flag](https://flagcdn.com/24x18/dk.png) Danish - Fluent  
-![United Kingdom flag](https://flagcdn.com/24x18/gb.png) English - Fluent
+🌐 English - Fluent
