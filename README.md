@@ -8,16 +8,13 @@
 ### 🚀 Featured Projects
 
 #### 🎰 [Spillehallen.dk](https://www.spillehallen.dk/danske-spilleautomater/) [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-I worked for a gambling company, a little over a year, where I made several backends for their online platform.
-**Tech stack:** C#
+I worked for a gambling company, a little over a year, where I made several backends for their online platform. made using C#
 
 #### 🌒🌕 [Cycle of the moon](https://store.steampowered.com/app/2136400/Cycle_of_The_Moon/?l=english&curator_clanid=9170052) [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-F2F2F2?style=flat-square&logo=unrealengine&logoColor=111111)](https://www.unrealengine.com/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-Cycle of the moon is a short souls-like, roguelike game developed for Steam.
-**Tech stack:** Unreal Engine, C++
+Cycle of the moon is a short souls-like, roguelike game developed for Steam. made in Unreal engine using C++
 
 #### 🃏🪙 [Cards'n'Coins](https://zokat.itch.io/cardsncoins) [![MonoGame](https://img.shields.io/badge/MonoGame-E73C00?style=flat-square&logo=monogame&logoColor=white)](https://monogame.net/) [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-Cards & Coins is a digital collectible card game developed for Itch.io.
-**Tech stack:** MonoGame, C#, .NET
+Cards & Coins is a digital collectible card game developed for Itch.io. made in monogame using C#
 
 ---
 
